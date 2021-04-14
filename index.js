@@ -20,7 +20,9 @@ const phrases = [
     "Do you know who you are talking to?",
     "Sorry, I only like humans",
     "Excuse me, I have to go shit.",
-    "Yock, like"
+    "Yock, like",
+    "I can't, the only way I will every find true happiness is to live in the woods, by myself, in a van",
+    "I'm sorry, I have to take this call"
 ];
 
 let voices = [];
