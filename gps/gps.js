@@ -25,7 +25,7 @@ let insults = [
     "You worthless sack of shit",
     "And then suck on deeze nuts",
     "You fucking numpty.",
-    "You total bellend.",
+    "You total bell end.",
     "Then learn how to drive.",
     "You useless cunt.",
     "Moron.",
